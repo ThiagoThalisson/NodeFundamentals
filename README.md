@@ -18,6 +18,11 @@
   - Routing;
   - CRUD;
   - Get's, Put's and so on.
+- Stateless and Stateful.
+  - Saving users on memory.
+- Streams.
+  - Read Streams.
+  - Write Streams.
 - Express.
 
 ### 📦 `Project Requirements`
