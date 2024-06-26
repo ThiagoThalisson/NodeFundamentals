@@ -29,7 +29,7 @@
 
 Install:
 
-- [Node 20.13.1](https://nodejs.org/en/download).
+- [Node 20.14.0](https://nodejs.org/en/download).
 
 <br>
 
