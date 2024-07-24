@@ -23,6 +23,7 @@
 - Streams.
   - Read Streams.
   - Write Streams.
+  - Transform Streams.
 - Express.
 
 ### 📦 `Project Requirements`
