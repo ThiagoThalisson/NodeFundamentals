@@ -19,11 +19,14 @@
   - CRUD;
   - Get's, Put's and so on.
 - Stateless and Stateful.
-  - Saving users on memory.
+  - Saving users on memory Stateless.
 - Streams.
   - Read Streams.
   - Write Streams.
   - Transform Streams.
+  - Buffers
+  - Returning the body of a req and res in JSON.
+- Middleware.
 - Express.
 
 ### 📦 `Project Requirements`
