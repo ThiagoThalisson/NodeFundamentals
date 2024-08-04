@@ -11,7 +11,7 @@
 - [📑️ `Topics`](#️-topics)
 - [📦 `Project Requirements`](#-project-requirements)
 
-### 📑️ `Topics`
+### 📑️ `Practiced Topics`
 
 - HTTP.
   - Requests and responses;
@@ -20,6 +20,7 @@
   - Get's, Put's and so on.
 - Stateless and Stateful.
   - Saving users on memory Stateless.
+  - Saving users on a Stateful JSON databse.
 - Streams.
   - Read Streams.
   - Write Streams.
