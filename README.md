@@ -8,7 +8,9 @@
 
 ## 📖 `Table Of Contents` <!-- omit in toc -->
 
-- [📑️ `Topics`](#️-topics)
+**Table of Contents**
+
+- [📑️ `Practiced Topics`](#️-practiced-topics)
 - [📦 `Project Requirements`](#-project-requirements)
 
 ### 📑️ `Practiced Topics`
